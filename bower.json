@@ -40,5 +40,8 @@
     "paper-menu": "PolymerElements/paper-menu#~1.1.1",
     "paper-dropdown-menu": "PolymerElements/paper-dropdown-menu#~1.1.0",
     "paper-input": "PolymerElements/paper-input#~1.0.18"
+  },
+  "resolutions": {
+    "paper-styles": "^1.0.0"
   }
 }
